@@ -1,3 +1,14 @@
+# OpenAI do not support HK
+## files are in Orange U
+## Have created the agent and entered the Arena 
+## But when `./run agent start AutoGPT_Oct_25th` 
+### http://0.0.0.0:8080
+{
+"detail": "Not Found"
+}
+
+---
+
 # 🌟 AutoGPT: the heart of the open-source agent ecosystem
 
 [![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt) [![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) [![Twitter Follow](https://img.shields.io/twitter/follow/auto_gpt?style=social)](https://twitter.com/Auto_GPT) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
